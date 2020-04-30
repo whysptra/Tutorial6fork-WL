@@ -27,3 +27,9 @@ grid.arrange(p1, p2)
 
 ```
 
+# New section
+
+```{r figure}
+grid.arrange(p1,p2)
+```
+
